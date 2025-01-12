@@ -4,7 +4,7 @@ import Formulario from "./assets/formulario";
 const AppContainer = styled.div`
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: start;
 
   background: black;
   width: 100%;
