@@ -10,6 +10,7 @@ const FormularioContainer = styled.form`
     width: 80%;
     padding: 20px 40px;
     background-color: ghostwhite;
+    margin-top: 10%;
 
     hr{
         border-top: 10px dotted gray;
