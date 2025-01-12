@@ -3,7 +3,6 @@ import Formulario from "./assets/formulario";
 
 const AppContainer = styled.div`
   display: flex;
-  align-items: center;
   justify-content: center;
 
   background: black;
